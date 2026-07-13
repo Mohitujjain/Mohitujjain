@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Python Developer | AI Engineer | Data Scientist</h3>
 
 <p align="center">
-Passionate about building intelligent applications using <strong>Python, Artificial Intelligence, Machine Learning, Data Science, and Generative AI</strong>. I enjoy solving real-world problems through AI, scalable backend development, cloud technologies, and data-driven solutions.
+Passionate about building intelligent applications using <strong>Python, Artificial Intelligence, Machine Learning, Deep Learning, NLP, Recommendation Systems, Data Science, and Generative AI</strong>. I enjoy solving real-world problems through AI, scalable backend development, cloud technologies, and data-driven solutions.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Passionate about building intelligent applications using <strong>Python, Artific
 
 - 🔭 Currently building **AI-powered applications, Python Backend APIs, and Data Science projects**
 - 🌱 Learning **Advanced Generative AI, Agentic AI, LangGraph, MCP (Model Context Protocol), Multi-Agent Systems & MLOps**
-- 🤖 Passionate about **LLMs, RAG, AI Agents, NLP, Computer Vision, and Deep Learning**
+- 🤖 Passionate about **- 🤖 Passionate about **LLMs, RAG, AI Agents, NLP, Recommendation Systems, Computer Vision, and Deep Learning**
 - 💻 Experienced in **Python Development, REST APIs, Flask, FastAPI, SQL, and Backend Development**
 - 📊 Skilled in **Data Analytics, Power BI, Tableau, Machine Learning, and Business Intelligence**
 - ☁️ Working with **AWS, Azure, Docker, Git, GitHub, and Linux**
@@ -89,7 +89,6 @@ Passionate about building intelligent applications using <strong>Python, Artific
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0050FF?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
 
