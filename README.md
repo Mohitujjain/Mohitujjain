@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohit Ujjain
+# Hi 👋, I'm Mohit 
 
 <h3 align="center">🚀 Python Developer | AI Engineer | Data Scientist</h3>
 
