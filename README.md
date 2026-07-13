@@ -23,7 +23,7 @@ Passionate about building intelligent applications using <strong>Python, Artific
 - 🎨 Familiar with **HTML, CSS, JavaScript** for building responsive web interfaces
 - 🤝 Open to collaborating on **Python, AI, Machine Learning, Data Science, Generative AI, and Open Source Projects**
 - 💬 Ask me about **Python, AI, ML, Flask, FastAPI, RAG, LangChain, LLMs, SQL, APIs, and Data Analytics**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **mohitujjain071195@gmail.com**
 - ⚡ Fun Fact: **I love transforming ideas into intelligent AI solutions.**
 
 ---
