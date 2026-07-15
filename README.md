@@ -154,6 +154,4 @@ Passionate about building intelligent applications using <strong>Python, Artific
 > **"Code. Learn. Build. Innovate. Repeat."**
 
 ⭐ **Always open to collaborating on Python, AI, Machine Learning, Data Science, Generative AI, and Open Source projects.**
-> **"Code. Learn. Build. Innovate. Repeat."**
 
-⭐ **Always open to collaborating on Python, AI, Machine Learning, Data Science, Generative AI, and Open Source projects.**
